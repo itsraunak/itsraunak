@@ -7,7 +7,7 @@
 
 #### I am a 3rd Year Undergraduate <b>Student at the University Institute of Technology, Burdwan</b> and a <b>Community Educator</b> at <b>[DevForFun][course]</b>. Working towards my goals.
 
-🌱 I’m currently learning Data Science <b>t, Data Structures, Advance Algorithms and Full-Stack Developmen.</b>
+🌱 I’m currently learning Data Science, <b> Data Structures, Advance Algorithms and Full-Stack Development.</b>
 
 ⚽ <b>2022 Goals - </b> Contribute to <b>Open Source</b> projects, Inspire <i>500+ students</i> at DevForFun, Learn <b>Cloud Computing and Blockchain</b> and make a move to <b>Start-up</b>.
 
