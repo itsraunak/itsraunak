@@ -1,13 +1,13 @@
-## Hi there, I'm Deepak Bhatt <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Raunak Kumar Sah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-bhatt-b7959817b)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raunak-kumar-sah-330316192/)
 ![](https://komarev.com/ghpvc/?username=deathook007&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
 ## I'm a Student and Developer from India ✔
 
-#### I am a 4th Year Undergraduate <b>Student at the University Institute of Technology, Burdwan</b> and a <b>Community Educator</b> at <b>[DevForFun][course]</b>. Working towards my goals.
+#### I am a 3rd Year Undergraduate <b>Student at the University Institute of Technology, Burdwan</b> and a <b>Community Educator</b> at <b>[DevForFun][course]</b>. Working towards my goals.
 
-🌱 I’m currently learning <b>Full-Stack Development, Data Structures, Advance Algorithms and Data Science.</b>
+🌱 I’m currently learning Data Science <b>t, Data Structures, Advance Algorithms and Full-Stack Developmen.</b>
 
 ⚽ <b>2022 Goals - </b> Contribute to <b>Open Source</b> projects, Inspire <i>500+ students</i> at DevForFun, Learn <b>Cloud Computing and Blockchain</b> and make a move to <b>Start-up</b>.
 
@@ -23,7 +23,7 @@
 
 ### Connect with me
 
-<a href="https://www.linkedin.com/in/deepak-bhatt-b7959817b">
+<a href="https://www.linkedin.com/in/raunak-kumar-sah-330316192/">
   <img align="left" alt="Abhishek's Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCHlWou39mcTQcBkaj8ziOSQ">
@@ -63,7 +63,7 @@
 
 ---
 
-<a href="https://www.buymeacoffee.com/deathook" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/itsraunak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
  - #### If you like what I do, maybe consider buying me a coffee 👈
 
 ### My GitHub Stats ⭐
@@ -75,7 +75,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deathook007&" alt="deathook007" /></p>
 
 [course]: https://chat.whatsapp.com/JIlA6oN8QP6E1C8DzYWjrg
-[linkedin]: www.linkedin.com/in/deepak-bhatt-webdeveloper
+[linkedin]: https://www.linkedin.com/in/raunak-kumar-sah-330316192/
 [youtube]: https://www.youtube.com/channel/UCHlWou39mcTQcBkaj8ziOSQ
 [gfg]: https://auth.geeksforgeeks.org/user/deepakshivaybhatt/practice/
-[leetcode]: https://leetcode.com/deathook007/
+[leetcode]: https://leetcode.com/itsraunak/
