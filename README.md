@@ -15,9 +15,7 @@
 
 🤝 I’m looking to collaborate on <b>Full Stack Development</b> and, <b>Software Development Engineer</b> roles.
 
-✅ <b>Publication - </b> Contemporary issues in computing (Volume: Topics in Intelligent Computing and Industry Design (ICID) 2 (1) (2020) 109-113 Issue 1) - <b>[IQRAR: AN INTELLIGENT, QUICK AND RAPID RESPONSE SYSTEM](https://www.researchgate.net/publication/347635135_IQRAR_AN_INTELLIGENT_QUICK_AND_RAPID_ACCIDENT_RESPONSE_SYSTEM)</b>
-
-📫 <b>How to reach me - </b> Mail me at - <b>[deepak.shivay.bhatt@gmail.com]</b>
+📫 <b>How to reach me - </b> Mail me at - <b>[itisraunak@gmail.com]</b>
  
 ⚡ <b>Fun fact - </b> I love to draw and watch Anime and hope to have my own one day.
 
@@ -68,7 +66,7 @@
 
 ### My GitHub Stats ⭐
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deathook007)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsraunak)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Streak 🔥
 
