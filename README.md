@@ -70,10 +70,10 @@
 
 ### My Streak 🔥
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deathook007&" alt="deathook007" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsraunak&" alt="itsraunak" /></p>
 
 [course]: https://chat.whatsapp.com/JIlA6oN8QP6E1C8DzYWjrg
 [linkedin]: https://www.linkedin.com/in/raunak-kumar-sah-330316192/
-[youtube]: https://www.youtube.com/channel/UCHlWou39mcTQcBkaj8ziOSQ
+[youtube]: https://www.youtube.com/channel/UCfK4hCj7HcsPwCxizMc6Viw/featured
 [gfg]: https://auth.geeksforgeeks.org/user/deepakshivaybhatt/practice/
 [leetcode]: https://leetcode.com/itsraunak/
