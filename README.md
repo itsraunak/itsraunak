@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/raunak-kumar-sah-330316192/">
   <img align="left" alt="Abhishek's Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCHlWou39mcTQcBkaj8ziOSQ">
+<a href="https://www.youtube.com/channel/UCfK4hCj7HcsPwCxizMc6Viw/featured">
   <img align="left" alt="Abhishek's Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
