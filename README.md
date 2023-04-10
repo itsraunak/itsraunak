@@ -5,19 +5,15 @@
 
 ## I'm a Student and Developer from India ✔
 
-#### I am a 3rd Year Undergraduate <b>Student at the University Institute of Technology, Burdwan</b> and a <b>Community Educator</b> at <b>[DevForFun][course]</b>. Working towards my goals.
 
-🌱 I’m currently learning Data Science, <b> Data Structures, Advance Algorithms and Full-Stack Development.</b>
+🌱 I’m a certified Full Stack Engineer
 
-⚽ <b>2022 Goals - </b> Contribute to <b>Open Source</b> projects, Inspire <i>500+ students</i> at DevForFun, Learn <b>Cloud Computing and Blockchain</b> and make a move to <b>Start-up</b>.
-
-💬 Ask me about Tech-Stacks - Web Dev, Data Science and <b>CSE Core Subjects</b>.
 
 🤝 I’m looking to collaborate on <b>Full Stack Development</b> and, <b>Software Development Engineer</b> roles.
 
 📫 <b>How to reach me - </b> Mail me at - <b>[itisraunak@gmail.com]</b>
  
-⚡ <b>Fun fact - </b> I love to draw and watch Anime and hope to have my own one day.
+⚡ <b>Fun fact - </b> I love to Read Books and watch Moview and hope to have my own one day.
 
 ### Connect with me
 
